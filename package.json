@@ -1,0 +1,8 @@
+{
+  "name": "npm-test",
+  "description": "Package to demonstrate weird npm install --link behavior",
+  "version": "0.1.0",
+  "author": "Per Eckerdal <per@pereckerdal.com>",
+  "engines": { "node" : ">=0.6.0" },
+  "private": true
+}
